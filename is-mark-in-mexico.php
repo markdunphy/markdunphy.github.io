@@ -8,7 +8,6 @@
 		font-size: 3em;
 		width: 100%;
 		height: 56px;
-		background-color: green;
 		margin-top: -28px;
 		position: absolute;
 		top: 50%;
