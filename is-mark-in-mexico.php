@@ -15,7 +15,7 @@
 	</style>
 </head>
 <body>
-	<h1>Yes.</h1>
+	<h1>Sí.</h1>
 	<script>
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-35911206-1']);
