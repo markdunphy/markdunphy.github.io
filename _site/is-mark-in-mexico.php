@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title></title>
+	<title>Dunphtastic | Is Mark in Mexico?</title>
 	<meta charset='utf-8'>
 	<style>
 	h1 {
