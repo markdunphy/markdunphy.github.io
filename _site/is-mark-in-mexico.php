@@ -3,20 +3,26 @@
 	<title>Dunphtastic | Is Mark in Mexico?</title>
 	<meta charset='utf-8'>
 	<style>
-	h1 {
+	div {
 		font-family: Helvetica, Arial, sans-serif;
 		text-align: center;
 		font-size: 3em;
 		width: 100%;
-		height: 56px;
-		margin-top: -28px;
+		height: 410px;
+		margin-top: -205px;
 		position: absolute;
 		top: 50%;
+	}
+	h1 {
+		padding: 0;
 	}
 	</style>
 </head>
 <body>
-	<h1>Sí.</h1>
+	<div>
+		<img src="images/ellol.gif">
+		<h1>Sí.</h1>
+	</div>
 	<script>
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-35911206-1']);
