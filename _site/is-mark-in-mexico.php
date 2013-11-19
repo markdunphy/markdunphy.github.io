@@ -20,8 +20,8 @@
 </head>
 <body>
 	<div>
-		<img src="images/ellol.gif">
-		<h1>Sí.</h1>
+		<img src="images/lolol.gif">
+		<h1>No :(</h1>
 	</div>
 	<script>
 		var _gaq = _gaq || [];
