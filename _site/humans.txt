@@ -10,12 +10,12 @@ Location: New York City
 
 HTML5 Muffin
 This is a Frappuccino Blog
-Name: Dunphtastic!
+Name: name or url
 
                             
 /* SITE */
                           
-Last update: 2013/08/16
+Last update: YYYY/MM/DD                    
 Standards: HTML5, CSS3,..                   
 Components: Modernizr, jQuery, etc.                            
-Software: ST2 and stuff.
+Software: Software used for the development

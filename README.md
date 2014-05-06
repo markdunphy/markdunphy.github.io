@@ -1,4 +1,10 @@
-Dunphtastic Blog
+HTML5 Muffin chocchip steps
 ============================
 
-Hello. This is my blog.
+Run bundle install
+
+	bundle install
+
+Run jekyll
+
+	jekyll
