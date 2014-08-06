@@ -1,2 +1,0 @@
-RewriteEngine On
-RewriteRule ^is-mark-in-mexico$ /is-mark-in-mexico.php [L,QSA]
