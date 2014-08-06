@@ -1,10 +1,4 @@
-HTML5 Muffin chocchip steps
+Dunphastic - The Website
 ============================
 
-Run bundle install
-
-	bundle install
-
-Run jekyll
-
-	jekyll
+It's a website about me.
